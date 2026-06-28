@@ -1,0 +1,7 @@
+Algoritmo Alvo,RMSE Baseline,RMSE Após GA,Delta RMSE,Spearman Base,Spearman Após GA,Delta Spearman
+DecisionTree,0.09583,0.11219,+0.01636,0.66,0.57,-0.0900
+SVM,0.15502,0.14369,-0.01133,0.46,0.46,+0.0000
+KNN,0.1214,0.12452,+0.00311,0.81,0.66,-0.1500
+LogisticRegression,0.08768,0.08181,-0.00588,0.76,0.78,+0.0200
+Perceptron,0.20238,0.20833,+0.00595,0.52,0.36,-0.1600
+MLP,0.1516,0.14595,-0.00565,0.68,0.6,-0.0800
